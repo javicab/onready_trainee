@@ -1,4 +1,4 @@
-package onready_trainee_1;
+package com.jc.onready;
 
 public abstract class Vehiculo {
     
@@ -23,8 +23,5 @@ public abstract class Vehiculo {
     public Float getPrecio() {
         return precio;
     }
-    
-    
-    
-    
+   
 }
